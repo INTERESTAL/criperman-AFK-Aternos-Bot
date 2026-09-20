@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "criperman2b2t.aternos.me",
-    "port": 20563,
-    "version": "1.21.11",
+    "ip": "INTERESTAL.aternos.me",
+    "port": 45188,
+    "version": "1.21.4",
     "try-creative": false
   },
   "position": {
