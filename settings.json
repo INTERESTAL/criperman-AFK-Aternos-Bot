@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "INTERESTAL.aternos.me",
-    "port": 32411,
+    "port": 64273,
     "version": "1.21.4",
     "try-creative": false
   },
