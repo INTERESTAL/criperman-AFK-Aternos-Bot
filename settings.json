@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "AZIZBEK",
-    "password": "",
+    "username": "INTERESTAL",
+    "password": "INTERESTALLER",
     "type": "offline"
   },
   "server": {
-    "ip": "INTERESTAL.aternos.me",
-    "port": 11037,
+    "ip": "157.90.5.77",
+    "port": 13345,
     "version": "1.20.2",
     "try-creative": false
   },
